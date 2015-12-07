@@ -2,4 +2,4 @@
 Misc tools for OpenStack
 
 ### openstack-net-tenant.py
-List networks and association with tenants
+List networks and association with projects (formerly tenants)

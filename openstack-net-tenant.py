@@ -82,3 +82,4 @@ for net in net_list:
             print net["id"]+"\t"+net["label"]+"\t"+net["cidr"]+"\t"+net["project_id"]+"\t"+"!!! DELETED !!!"
         else:
             print net["id"]+"\t"+net["label"]+"\t"+net["cidr"]+"\t"+net["project_id"]+"\t"+l[0]
+
